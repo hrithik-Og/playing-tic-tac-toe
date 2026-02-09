@@ -72,7 +72,7 @@ h1{
 #a2{
   height: 200px;
   width: 200px;
-  background-color: black;
+  background-color: rgb(209, 103, 103);
   border-radius: 10%;
 }
 
@@ -93,7 +93,7 @@ h1{
 #b5{
   height: 200px;
   width: 200px;
-  background-color: black;
+  background-color: rgb(209, 103, 103);
   border-radius: 10%;
 }
 
@@ -114,7 +114,7 @@ h1{
 #c8{
   height: 200px;
   width: 200px;
-  background-color: black;
+  background-color: rgb(209, 103, 103);
   border-radius: 10%;
 }
 
@@ -127,6 +127,12 @@ h1{
 
 .r1{
  margin: 2px 2px 2px 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 80px;
+  font-weight: bold;
+
 }
 
 .r2{
